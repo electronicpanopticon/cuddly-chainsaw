@@ -1,0 +1,4 @@
+[package]
+name = "cuddle-chainsaw"
+version = "0.1.0"
+authors = ["Chris <ignatz@gmail.com>"]
